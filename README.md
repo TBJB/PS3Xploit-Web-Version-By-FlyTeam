@@ -7,7 +7,6 @@ W (Javascript, Research & Testing) -
 esc0rtd3w (Debugging, Research & Testing -
 bguerville (ROP Chaining/Javascript & Debugging) -
 
-UnOfficial Website Of PS3Xploit
 PS3Xploit-Web-Version Is The Best Website For Jailbreak,Downgrade And IDPS Dumper In The Web
 PS3Xploit-Web-Version Is Oper-Source
 
